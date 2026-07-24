@@ -77,7 +77,7 @@ uv venv --python 3.12
   ```powershell
   .venv\Scripts\activate
   ```
-* ** On macOS / Linux:**
+* **On macOS / Linux:**
 ```source
  .venv/bin/activate
 ```
