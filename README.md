@@ -72,9 +72,9 @@ RepLica/
 uv venv --python 3.12
 
 # Activate virtual environment
-# On Windows PowerShell:
+** On Windows PowerShell:**
 .venv\Scripts\activate
-# On macOS / Linux:
+** On macOS / Linux:**
 source .venv/bin/activate
 
 # Install dependencies
