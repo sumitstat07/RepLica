@@ -78,7 +78,9 @@ uv venv --python 3.12
   .venv\Scripts\activate
   ```
 * ** On macOS / Linux:**
-source .venv/bin/activate
+```source
+ .venv/bin/activate
+```
 
 # Install dependencies
 uv pip install -r requirements.txt
